@@ -6,4 +6,5 @@ bananas
 plums
 chocolate
 drinks
+cake
 
