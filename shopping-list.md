@@ -1,13 +1,13 @@
 # SHOPPING LIST
 
-apples
-pears
-bananas
-plums
-chocolate
-drinks
-cake
-biscuits
-grapes
-cereal
-bread
+* apples
+* pears
+* bananas
+* plums
+* chocolate
+* drinks
+* cake
+* biscuits
+* grapes
+* cereal
+* bread
