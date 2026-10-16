@@ -9,3 +9,5 @@ drinks
 cake
 biscuits
 grapes
+cereal
+bread
